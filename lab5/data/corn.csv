@@ -1,0 +1,9 @@
+DataSe,Naive Bayes,J48,SVM,JRip        
+ReutersCorn-train_Default.arff,0.899,0.979,0.985,0.994        
+ReutersCorn-train_KeepWords100.arff,0.892,0.982,0.991,0.993        
+ReutersCorn-train_DoNotOperatePerClass.arff,0.893,0.982,0.976,0.990        
+ReutersCorn-train_Transforms.arff,0.956,0.980,0.979,0.994        
+ReutersCorn-train_NormalizeDocLength.arff,0.853,0.978,0.978,0.992        
+ReutersCorn-train_Stemmer.arff,0.933,0.994,0.986,0.995        
+ReutersCorn-train_Tokenizer.arff,0.789,0.987,0.980,0.988        
+ReutersCorn-train_MinTermPruned.arff,0.901,0.981,0.985,0.992        

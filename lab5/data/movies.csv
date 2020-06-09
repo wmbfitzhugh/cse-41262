@@ -1,0 +1,9 @@
+DataSet,Naive Bayes,J48,SVM,JRip        
+Movie_Reviews_Default.arff,0.808,0.667,0.790,0.654        
+Movie_Reviews_KeepWords100.arff,0.665,0.591,0.691,0.628        
+Movie_Reviews_DoNotOperatePerClass.arff,0.782,0.648,0.777,0.646        
+Movie_Reviews_Transforms.arff,0.738,0.684,0.812,0.671        
+Movie_Reviews_NormalizeDocLength.arff,0.803,0.677,0.794,0.645        
+Movie_Reviews_Stemmer.arff,0.798,0.653,0.800,0.669        
+Movie_Reviews_Tokenizer.arff,0.593,0.536,0.644,0.601        
+Movie_Reviews_MinTermPruned.arff,0.817,0.665,0.791,0.644        
